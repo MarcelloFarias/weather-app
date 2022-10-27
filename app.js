@@ -1,3 +1,5 @@
+import apiKey from './config/key.js';
+
 const input = document.querySelector('.input');
 const searchButton = document.querySelector('.btn-search');
 const main = document.querySelector('.output');
